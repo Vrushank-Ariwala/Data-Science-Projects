@@ -1,0 +1,10 @@
+langchain-google-genai
+python-dotenv
+langchain
+langchain_community
+sqlalchemy-bigquery
+google-cloud-bigquery-storage
+langchain_experimental
+langchain-huggingface
+langchain-google-community
+streamlit
